@@ -80,11 +80,6 @@ Estrutura do Projeto
    ├─ /css
    └─ /js
 
-Instalação
-
-Clone o repositório:
-
-git clone https://github.com/derick-0/projeto-concessionarias-em-php18-11-2025.gitt
 
 
 
