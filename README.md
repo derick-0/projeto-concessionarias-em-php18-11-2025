@@ -1,6 +1,6 @@
 # projeto-concessionarias-em-php18-11-2025
  Sistema de Concessionária
-Descrição
+
 
 O Sistema de Concessionária é uma aplicação web desenvolvida em PHP e MySQL que permite gerenciar uma concessionária de veículos.
 O sistema permite cadastrar funcionários, clientes, modelos de veículos, vendas e gerar relatórios de forma prática e organizada.
