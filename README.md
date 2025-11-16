@@ -1,5 +1,5 @@
 # projeto-concessionarias-em-php18-11-2025
-🚗 Sistema de Concessionária
+ Sistema de Concessionária
 Descrição
 
 O Sistema de Concessionária é uma aplicação web desenvolvida em PHP e MySQL que permite gerenciar uma concessionária de veículos.
@@ -84,7 +84,7 @@ Instalação
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/derick-0/projeto-concessionarias-em-php18-11-2025.gitt
 
 
 
